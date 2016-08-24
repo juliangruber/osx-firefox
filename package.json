@@ -1,0 +1,16 @@
+{
+  "name": "osx-firefox",
+  "version": "0.0.0",
+  "description": "Launch a fresh Firefox on OSX",
+  "license": "MIT",
+  "repository": "juliangruber/osx-firefox",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "osx-find-executable": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.0.0-beta.5"
+  }
+}
